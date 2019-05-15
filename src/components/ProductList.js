@@ -5,7 +5,7 @@ class ProductList extends Component {
     render() {
         return (
             <div>
-                <Products></Products>
+                <Products/>
             </div>
         );
     }
